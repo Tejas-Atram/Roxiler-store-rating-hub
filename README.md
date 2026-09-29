@@ -1,3 +1,6 @@
+![Uploading RegisterPage.png…]()
+![Uploading loginPage.png…]()
+![Uploading AdminDashboardPage.png…]()
 # 🌟 Roxiler Store Rating Hub
 
 A modern, role-based store rating platform featuring a responsive glassmorphic React UI. The system supports three distinct user flows: Admins for system management, Store Owners for monitoring analytics, and Users for exploring and rating stores.
